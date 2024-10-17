@@ -1,0 +1,112 @@
+.portfolio-item{
+    background-color: white;
+    max-width: 300px;
+
+}
+
+.portfolio-item svg{
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+.portfolio-item img{
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+
+
+
+
+#contact-form {
+    background-color: #9eb0c3; 
+    color: #fff; 
+    padding: 2rem;
+    border-radius: 0.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #contact-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  #contact-form input[type="text"],
+  #contact-form input[type="email"],
+  #contact-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 0.25rem;
+  }
+  
+  #contact-form input[type="submit"] {
+    background-color: #fff;
+    color: #007bff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  #contact-form input[type="submit"]:hover {
+    background-color: #e2e6ea;
+  }
+  
+  .divider-custom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.5rem 0;
+  }
+  
+  .divider-custom-line {
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+  }
+  
+  .divider-custom-icon {
+    margin: 0 1rem;
+    color: #fff;
+  }
+  
+
+
+
+  #skills {
+    background-color: #2C3E50; /* Set the background color */
+    color: #ffffff; /* Set the text color to white for contrast */
+    padding: 60px 0; /* Add some padding for spacing */
+  }
+  
+  #skills .page-section-heading {
+    color: #ffffff; /* Ensure the heading text is white */
+  }
+  
+  #skills .divider-custom .divider-custom-line {
+    background-color: #ffffff; /* Set the divider line color to white */
+  }
+  
+  #skills .divider-custom .divider-custom-icon {
+    color: #ffffff; /* Set the divider icon color to white */
+  }
+  
+  #skills h4 {
+    color: #ffffff; /* Set the subheading text color to white */
+  }
+  
+  #skills ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+  }
+  
+  #skills ul li {
+    margin-bottom: 10px; /* Add some space between list items */
+    font-size: 16px; /* Adjust font size as needed */
+  }
+  
